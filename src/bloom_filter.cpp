@@ -1,0 +1,2 @@
+   git clone https://github.com/yourusername/your-repository-name.git
+   cd your-repository-name
